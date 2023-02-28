@@ -9,3 +9,9 @@
 
 * get  days where the `values` were higher
 * make a prediction and compare it with the current `google` temp to see the `shift` **advanced!**
+
+### Results 
+
+![Line chart Of the values throughout the registered dates](datas/big_line.JPG )
+
+![Zoomed In ](datas/big_line.JPG )
