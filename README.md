@@ -14,4 +14,4 @@
 
 ![Line chart Of the values throughout the registered dates](datas/big_line.JPG )
 
-![Zoomed In ](datas/big_line.JPG )
+![Zoomed In ](datas/linetwo.JPG )
