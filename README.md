@@ -12,8 +12,8 @@
 
 ### Results 
 
-![Line chart Of the values throughout the registered dates](dats/big_line.JPG )
+![Line chart Of the values throughout the registered dates](imgs/big_line.JPG )
 
-![Zoomed In ](dats/linetwo.JPG )
+![Zoomed In ](imgs/linetwo.JPG )
 
 `dataset` [openAFRICA](https://africaopendata.org/dataset/sensorsafrica-airquality-archive-kampala "The best site for data sets about AFRICA").
