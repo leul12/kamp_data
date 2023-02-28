@@ -15,3 +15,5 @@
 ![Line chart Of the values throughout the registered dates](datas/big_line.JPG )
 
 ![Zoomed In ](datas/linetwo.JPG )
+
+`dataset` [openAFRICA](https://africaopendata.org/dataset/sensorsafrica-airquality-archive-kampala "The best site for data sets about AFRICA").
