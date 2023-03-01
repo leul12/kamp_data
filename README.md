@@ -16,7 +16,7 @@
 
 ![Line chart Of the values throughout the registered dates](imgs/big_line.JPG )
 
-![scatter chart Of the values throughout the registered dates](imgs/big_line.JPG )
+![scatter chart Of the values throughout the registered dates](imgs/scatter.JPG )
 
 ![Zoomed In ](imgs/linetwo.JPG )
 
