@@ -12,7 +12,11 @@
 
 ### Results 
 
+![where the data is gathered ](imgs/location.JPG )
+
 ![Line chart Of the values throughout the registered dates](imgs/big_line.JPG )
+
+![scatter chart Of the values throughout the registered dates](imgs/big_line.JPG )
 
 ![Zoomed In ](imgs/linetwo.JPG )
 
